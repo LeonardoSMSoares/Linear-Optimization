@@ -1,4 +1,4 @@
-# Linear-Optimization
+# Linear Optimization
 UNIFESP Course - Linear Optimization with Python.
 
 * Understand the process of mathematical modeling of linear optimization problems;
